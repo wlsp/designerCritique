@@ -457,6 +457,7 @@ section:nth-of-type(5) p {
   font-size: 1em;
   line-height: 1.8em;
   width: 90%;
+  margin-top: -45vw;
   color: #9fa2a7;
 }
 
