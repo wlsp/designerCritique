@@ -448,7 +448,7 @@ section:nth-of-type(5) div {
   justify-content: center;
   align-items: center;
   height: 30vw;
-  width: 80%;
+  width: 90%;
   border-bottom: 1px solid #9fa2a7;
 }
 
@@ -456,13 +456,13 @@ section:nth-of-type(5) p {
   position: absolute;
   font-size: 1em;
   line-height: 1.8em;
-  width: 90%;
-  margin-top: -20vw;
+  width: 80%;
+  margin-top: -30vw;
   color: #9fa2a7;
 }
 
 section:nth-of-type(5) img {
-  width: 50%;
+  width: 60%;
 }
 
 /* --- ---- ----- ---- ----  */
