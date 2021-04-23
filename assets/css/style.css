@@ -447,6 +447,7 @@ section:nth-of-type(5) div {
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-left:-10%;
   height: 30vw;
   width: 90%;
   border-bottom: 1px solid #9fa2a7;
@@ -454,6 +455,7 @@ section:nth-of-type(5) div {
 
 section:nth-of-type(5) p {
   position: absolute;
+  text-align: justify;
   font-size: 1em;
   line-height: 1.8em;
   width: 80%;
